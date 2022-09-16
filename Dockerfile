@@ -16,4 +16,4 @@ CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 expose 80
 
 
-# hope this work now / yml fild updated to delete old container & image before creating a new container //
+# hope this work now / yml fild updated to delete old container & image before creating a new container ///
