@@ -14,3 +14,6 @@ RUN cp -rvf markups-kindle/* .
 RUN rm -rf _MACOSX markups-kindle kindle.zip
 CMD ["/user/sbin/httpd", "-D", "FOREGROUND"]
 expose 80
+
+
+# hope this work
